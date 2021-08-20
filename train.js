@@ -10,4 +10,4 @@ String.prototype.toAlternatingCase = function () {
    }
 
 }
-"string".toAlternatingCase();
+"string".toAlternatingCase();no
